@@ -5,7 +5,7 @@ A gym utility app that solves a specific, universally annoying problem: you ente
 - Accounts for closest available weight when you set in available plates and bar weight.
 - Clean visuals, clear UX design.
 - Settings allows you to change accent colour.
-- Sleek minimalist design for quick and clean load.
+- Sleek coding techniques for an efficient load.
 
 <br>
 <br>
