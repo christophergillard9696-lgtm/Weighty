@@ -1,8 +1,10 @@
 # Weighty
 A gym utility app that solves a specific, universally annoying problem: you enter the weights available to you and your target bar weight, and it calculates exactly which plates to load. Simple, functional, and built because the problem genuinely needed solving. Available on iOS and Android:
 
-
-
+# 📱 Features
+Accounts for closest available weight when you set in available plates and bar weight.
+Settings allows you to change accent colour. Sleek minimalist desi
+<br>
 <img width="281" height="621" alt="image" src="https://github.com/user-attachments/assets/ad7952c4-c687-4654-bad9-4bccdcdd7b82" />
 
 <img width="278" height="622" alt="image" src="https://github.com/user-attachments/assets/5b9d1101-b038-4e09-8202-05edf2bdf212" />
@@ -13,9 +15,7 @@ A gym utility app that solves a specific, universally annoying problem: you ente
 
 <br>
 <br>
-
-Accounts for closest available weight when you set in available plates and bar weight.
-Settings allows you to change accent colour. Sleek minimalist design for quick and clean load.
+gn for quick and clean load.
 
 ```kotlin
 package com.example.barbells
