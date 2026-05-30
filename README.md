@@ -12,7 +12,7 @@ A gym utility app that solves a specific, universally annoying problem: you ente
 <img width="281" height="621" alt="image" src="https://github.com/user-attachments/assets/ad7952c4-c687-4654-bad9-4bccdcdd7b82" />
 
 <img width="278" height="622" alt="image" src="https://github.com/user-attachments/assets/5b9d1101-b038-4e09-8202-05edf2bdf212" />
-
+<br>
 <img width="276" height="623" alt="image" src="https://github.com/user-attachments/assets/299dc2b6-73c0-43b7-a66d-d4003f382e43" />
 
 <img width="281" height="626" alt="image" src="https://github.com/user-attachments/assets/a3430f2a-ee11-4566-8222-75f672a00e02" />
