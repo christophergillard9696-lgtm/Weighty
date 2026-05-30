@@ -8,7 +8,6 @@ A gym utility app that solves a specific, universally annoying problem: you ente
 - Sleek coding techniques for an efficient load.
 
 <br>
-<br>
 
 <img width="281" height="621" alt="image" src="https://github.com/user-attachments/assets/ad7952c4-c687-4654-bad9-4bccdcdd7b82" />
 
