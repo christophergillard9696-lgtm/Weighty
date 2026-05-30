@@ -1,7 +1,9 @@
 # Weighty
-A barbell calculator app I made because I didn't want to deal with the paywalls on similar apps:
+A gym utility app that solves a specific, universally annoying problem: you enter the weights available to you and your target bar weight, and it calculates exactly which plates to load. Simple, functional, and built because the problem genuinely needed solving. Available on iOS and Android:
 
 
+
+```kotlin
 package com.example.barbells
 
 import android.os.Bundle
@@ -691,3 +693,4 @@ fun BreakdownRow(label: String, side: String, total: String, isMuted: Boolean = 
         Text(total, modifier = Modifier.weight(0.8f), fontSize = 14.sp, fontWeight = FontWeight.Bold, color = TextPrimary, textAlign = androidx.compose.ui.text.style.TextAlign.End)
     }
 }
+```
