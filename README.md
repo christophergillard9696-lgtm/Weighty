@@ -11,7 +11,8 @@ A gym utility app that solves a specific, universally annoying problem: you ente
 
 <img width="281" height="626" alt="image" src="https://github.com/user-attachments/assets/a3430f2a-ee11-4566-8222-75f672a00e02" />
 
-
+Accounts for closest available weight when you set in available plates and bar weight.
+Settings allows you to change accent colour.
 
 ```kotlin
 package com.example.barbells
