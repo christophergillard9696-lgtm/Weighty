@@ -2,8 +2,10 @@
 A gym utility app that solves a specific, universally annoying problem: you enter the weights available to you and your target bar weight, and it calculates exactly which plates to load. Simple, functional, and built because the problem genuinely needed solving. Available on iOS and Android:
 
 # 📱 Features
-Accounts for closest available weight when you set in available plates and bar weight.
-Settings allows you to change accent colour. Sleek minimalist design for quick and clean load.
+- Accounts for closest available weight when you set in available plates and bar weight.
+- Clean visuals, clear UX design.
+- Settings allows you to change accent colour.
+- Sleek minimalist design for quick and clean load.
 
 <br>
 <br>
